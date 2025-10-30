@@ -249,5 +249,3 @@ You now have:
 * A solid **Docker Compose foundation** for future projects 🚀
 
 ---
-
-Would you like me to add a short “Run Locally (without Docker)” section at the bottom — for people who just want to `npm install && node server.js`? It’s a good optional touch for your GitHub repo.
