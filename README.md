@@ -232,11 +232,6 @@ The DB volume saved an old password.
 
 Ensure `web:` is **under** `services:` (same indent level as `db` and `cache`).
 
----
-
-## 📜 License
-
-**MIT License** (or your choice)
 
 ---
 
